@@ -1,0 +1,102 @@
+[
+  {
+    "id": "b2e7739d-5b35-415e-a3ed-5ce2e4d6270b",
+    "name": "Ana",
+    "email": "ana@example.com",
+    "password": "pass123",
+    "age": "28",
+    "city": "Madrid",
+    "interests": "arte, viajes, lectura",
+    "allowOffers": true
+  },
+  {
+    "id": "c2e7739d-6b35-415e-a3ed-5ce2e4d6270b",
+    "name": "Carlos",
+    "email": "carlos@example.com",
+    "password": "carlos99",
+    "age": "35",
+    "city": "Barcelona",
+    "interests": "tecnología, deportes",
+    "allowOffers": true
+  },
+  {
+    "id": "c2e7349d-5b35-415e-a3ed-5ce2e4d6270b",
+    "name": "Lucía",
+    "email": "lucia@example.com",
+    "password": "lucia2023",
+    "age": "22",
+    "city": "Valencia",
+    "interests": "música, moda, cine",
+    "allowOffers": true
+  },
+  {
+    "id": "fd23349d-5b35-415e-a3ed-5ce2e4d6270b",
+    "name": "Miguel",
+    "email": "miguel@example.com",
+    "password": "miguel77",
+    "age": "30",
+    "city": "Madrid",
+    "interests": "cine, lectura",
+    "allowOffers": true
+  },
+  {
+    "id": "c231249d-5b35-415e-a3ed-5ce2e4d6270b",
+    "name": "Sofía",
+    "email": "sofia@example.com",
+    "password": "sofi456",
+    "age": "27",
+    "city": "Bilbao",
+    "interests": "gastronomía, viajes",
+    "allowOffers": true
+  },
+  {
+    "id": "c2e7349d-ef4t-415e-a3ed-5ce2e4d6270b",
+    "name": "Daniela",
+    "email": "daniela@example.com",
+    "password": "dani2022",
+    "age": "24",
+    "city": "Zaragoza",
+    "interests": "teatro, fotografía, gastronomía",
+    "allowOffers": true
+  },
+  {
+    "id": "c2e7349d-5b35-4dee-a3ed-5ce2e4d6270b",
+    "name": "David",
+    "email": "david@example.com",
+    "password": "dave123",
+    "age": "29",
+    "city": "Málaga",
+    "interests": "videojuegos, deportes, gastronomía",
+    "allowOffers": false
+  },
+  {
+    "id": "c2e7349d-5b35-415e-a3ed-5cjj74d6270b",
+    "name": "Laura",
+    "email": "laura@example.com",
+    "password": "laurita",
+    "age": "26",
+    "city": "Murcia",
+    "interests": "deportes, lectura, gastronomía",
+    "allowOffers": true
+  },
+  {
+    "id": "c2e7349d-5b35-415e-a3ed-5we2e4d6270b",
+    "name": "Sergio",
+    "email": "sergio@example.com",
+    "password": "serg2023",
+    "age": "33",
+    "city": "Sevilla",
+    "interests": "deportes, viajes",
+    "allowOffers": false
+  },
+  {
+    "id": "c2e7349d-5b35-415e-a3ed-5ce2eqq6270b",
+    "name": "Elena",
+    "email": "elena@example.com",
+    "password": "ele123",
+    "age": "31",
+    "city": "Sevilla",
+    "interests": "deportes, música, fotografía",
+    "allowOffers": true
+  }
+]

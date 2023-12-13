@@ -1,0 +1,314 @@
+[
+  {
+    "id": "c2e7739d-5b35-415e-a3ed-5ce2e4d6270b",
+    "nombreComercio": "Librería Luna",
+    "cif": "A12345678",
+    "direccion": "Calle la Aurora",
+    "email": "info@luna.com",
+    "telefono": "910000001",
+    "ciudad": "Madrid",
+    "actividad": "Lectura, Cine, Videojuegos y más..",
+    "titulo": "Un oasis literario en el corazón de la ciudad",
+    "resumen": "Librería Luna ofrece una amplia gama de libros, desde bestsellers hasta obras literarias clásicas, junto con un acogedor rincón de lectura y eventos regulares de lectura de poesía y encuentros con autores.",
+    "textos": [
+      "Amplia selección de géneros literarios para todas las edades",
+      "Espacio cultural activo con eventos semanales",
+      "Servicio personalizado de recomendaciones literarias"
+    ],
+    "fotos": [
+      "libreria1",
+      "libreria2",
+      "libreria3",
+      "libreria4",
+      "libreria5",
+      "libreria6",
+      "libreria7"
+    ],
+    "scoring": [
+      "4",
+      "4",
+      "5",
+      "5",
+      "5"
+    ],
+    "numeroDePuntuaciones": 5,
+    "reseñas": [
+      "Visitar Librería Luna es siempre una experiencia enriquecedora. ¡Es un verdadero refugio para los amantes de los libros!",
+      "Me encanta la atmósfera cálida y acogedora de la Librería Luna. Los eventos culturales que organizan añaden un gran valor a la comunidad. Definitivamente, es más que un lugar para comprar libros.",
+      "Cada rincón de Librería Luna está lleno de encanto y sabiduría. Desde la selección de títulos hasta los acogedores espacios de lectura, es el lugar perfecto para perderse entre páginas y palabras."
+    ]
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7g8h-9i0j-k1l2m3n4o5p6",
+    "nombreComercio": "Cafetería El Sol",
+    "cif": "B23456789",
+    "direccion": "Plaza Mayor 1",
+    "email": "contacto@elsol.com",
+    "telefono": "920000002",
+    "ciudad": "Barcelona",
+    "actividad": "Gastronomía, Música y más..",
+    "titulo": "Un rincón de sabor y encuentro en el corazón de la ciudad",
+    "resumen": "Cafetería El Sol ofrece una experiencia única de sabores con una selección especial de cafés de origen y repostería artesanal, en un ambiente acogedor perfecto para relajarse o reunirse.",
+    "textos": [
+      "Selección exclusiva de cafés de origen y repostería artesanal",
+      "Ambiente acogedor y perfecto para reuniones casuales o de trabajo",
+      "Eventos semanales como catas de café y talleres de barismo"
+    ],
+    "fotos": [
+      "cafeteria1",
+      "cafeteria2",
+      "cafeteria3",
+      "cafeteria4",
+      "cafeteria5",
+      "cafeteria6",
+      "cafeteria7"
+    ],
+    "scoring": [
+      "4",
+      "5",
+      "5",
+      "4",
+      "5",
+      "5"
+    ],
+    "numeroDePuntuaciones": 6,
+    "reseñas": [
+      "La Cafetería El Sol es mi lugar favorito para disfrutar de un buen café y trabajar en un ambiente tranquilo.",
+      "Los eventos de cata de café son increíbles, siempre aprendo algo nuevo y disfruto de sabores únicos.",
+      "El Sol no es solo una cafetería, es un espacio de encuentro cultural enriquecedor y relajante."
+    ]
+  },
+  {
+    "id": "p6o5n4m3-l2k1-j0i9-h8g7-f6e5-d4c3b2a1",
+    "nombreComercio": "Tienda de Ropa Mar",
+    "cif": "C34567890",
+    "direccion": "Calle Nueva 5",
+    "email": "info@tiendamar.com",
+    "telefono": "930000003",
+    "ciudad": "Valencia",
+    "actividad": "Moda, Arte, Deportes y más..",
+    "titulo": "Vanguardia y sostenibilidad en cada prenda",
+    "resumen": "Tienda de Ropa Mar combina la moda actual con la sostenibilidad, ofreciendo una colección exclusiva de prendas éticas y ecológicas para un público consciente y moderno.",
+    "textos": [
+      "Colecciones exclusivas de moda sostenible para todas las edades",
+      "Asesoramiento personalizado en imagen y estilo",
+      "Eventos mensuales de moda y colaboraciones con diseñadores locales"
+    ],
+    "fotos": [
+      "tiendaRopa1",
+      "tiendaRopa2",
+      "tiendaRopa3",
+      "tiendaRopa4",
+      "tiendaRopa5",
+      "tiendaRopa6"
+    ],
+    "scoring": [
+      "5",
+      "4",
+      "5",
+      "4",
+      "5",
+      "3",
+      "1",
+      "1",
+      "5",
+      "4"
+    ],
+    "numeroDePuntuaciones": 10,
+    "reseñas": [
+      "Tienda de Ropa Mar es un descubrimiento increíble para quienes amamos la moda y el planeta.",
+      "Cada visita es una experiencia; el asesoramiento personalizado me ha ayudado a definir mi estilo.",
+      "Los eventos de moda son fantásticos, siempre encuentro piezas únicas y apoyo a los diseñadores locales."
+    ]
+  },
+  {
+    "id": "4733a37d-7f7b-45b8-bc3b-a50e75836c69",
+    "nombreComercio": "Floristería Jardín",
+    "cif": "D45678901",
+    "direccion": "Avenida Flores 20",
+    "email": "ventas@jardin.com",
+    "telefono": "940000004",
+    "ciudad": "Sevilla",
+    "actividad": "Arte, Música y más..",
+    "titulo": "Un oasis de color y fragancia en cada arreglo",
+    "resumen": "Floristería Jardín ofrece una variedad impresionante de flores y plantas, con servicios especializados en arreglos florales para todo tipo de ocasiones y talleres creativos de jardinería.",
+    "textos": [
+      "Variedad única de flores frescas y plantas para todas las ocasiones",
+      "Servicios personalizados para bodas, eventos y decoración del hogar",
+      "Talleres mensuales de jardinería y diseño floral"
+    ],
+    "fotos": [
+      "floristeria1",
+      "floristeria2",
+      "floristeria3",
+      "floristeria4",
+      "floristeria5",
+      "floristeria6",
+      "floristeria7"
+    ],
+    "scoring": [
+      "5",
+      "3",
+      "2",
+      "5",
+      "5",
+      "5",
+      "5",
+      "3",
+      "4"
+    ],
+    "numeroDePuntuaciones": 9,
+    "reseñas": [
+      "Floristería Jardín transformó mi boda con sus increíbles arreglos florales. ¡Un trabajo espectacular!",
+      "Amo los talleres de jardinería; cada sesión es una nueva oportunidad para aprender y crear.",
+      "Cada vez que necesito un regalo especial, Floristería Jardín es mi primera opción. La calidad y la creatividad de sus arreglos nunca dejan de impresionar."
+    ]
+  },
+  {
+    "id": "e91b7d65-bba3-446b-864b-ed95d3a70c81",
+    "nombreComercio": "Electricidad Nurma",
+    "cif": "E56789012",
+    "direccion": "Calle Lluna 3",
+    "email": "nurma@nurma.com",
+    "telefono": "950000005",
+    "ciudad": "Alicante",
+    "actividad": "Instalaciones eléctricas, Mantenimiento, Tecnología y más..",
+    "titulo": "Ponga luz a su futuro",
+    "resumen": "Electricidad Nurma ofrece servicios profesionales de instalación y mantenimiento eléctrico, enfocados en la eficiencia energética y la seguridad en hogares y negocios.",
+    "textos": [
+      "Servicios de instalación y mantenimiento eléctrico para hogares y negocios",
+      "Asesoramiento experto en eficiencia energética y sistemas modernos",
+      "Equipo técnico cualificado para proyectos de cualquier envergadura"
+    ],
+    "fotos": [
+      "electricidad1",
+      "electricidad2",
+      "electricidad3",
+      "electricidad4",
+      "electricidad5"
+    ],
+    "scoring": [
+      "5",
+      "5",
+      "5",
+      "4",
+      "5"
+    ],
+    "numeroDePuntuaciones": 5,
+    "reseñas": [
+      "Electricidad Nurma hizo un trabajo excepcional en la instalación eléctrica de mi nuevo local. Profesionalismo y eficiencia de principio a fin.",
+      "Recurrí a Nurma para una revisión general y quedé impresionado con su atención al detalle y consejos para mejorar mi consumo energético.",
+      "La respuesta rápida y eficaz de Electricidad Nurma ante una avería fue vital para mi negocio. Servicio de confianza."
+    ]
+  },
+  {
+    "id": "f67g8h9i-0j1k-2l3m-4n5o-p6q7r8s9t0u1",
+    "nombreComercio": "Papelería Manur",
+    "cif": "F67890123",
+    "direccion": "Calle de las Artes 15",
+    "email": "contacto@manur.com",
+    "telefono": "960000006",
+    "ciudad": "Valencia",
+    "actividad": "Arte, Lectura y más..",
+    "titulo": "Creatividad y calidad en cada producto",
+    "resumen": "Papelería Manur se especializa en ofrecer una amplia gama de productos de papelería, desde materiales escolares hasta suministros para bellas artes, junto con servicios de impresión personalizados.",
+    "textos": [
+      "Gran variedad de materiales de papelería y escolares para todas las edades",
+      "Suministros especializados para artistas y estudiantes de bellas artes",
+      "Servicios de impresión digital y personalización de alta calidad"
+    ],
+    "fotos": [
+      "papeleria1",
+      "papeleria2",
+      "papeleria3",
+      "papeleria4",
+      "papeleria5",
+      "papeleria6"
+    ],
+    "scoring": [
+      "4",
+      "5",
+      "5",
+      "4",
+      "4"
+    ],
+    "numeroDePuntuaciones": 5,
+    "reseñas": [
+      "Papelería Manur siempre tiene todo lo que necesito para mis proyectos de arte. ¡Y el personal es súper amable y conocedor!",
+      "Los servicios de impresión en Manur son los mejores de la ciudad. Calidad insuperable y precios razonables.",
+      "Amo la selección de material escolar en Manur; es perfecta tanto para mis hijos como para mi propio uso profesional."
+    ]
+  },
+  {
+    "id": "v2u1t0s9-r8q7-p6o5-n4m3-l2k1j0i9h8g7",
+    "nombreComercio": "Tienda de Mascotas Pet Paradise",
+    "cif": "H89012345",
+    "direccion": "Calle de los Animales 33",
+    "email": "contacto@petparadise.com",
+    "telefono": "980000008",
+    "ciudad": "Málaga",
+    "actividad": "Moda, Gastronomía, Fotografía y más..",
+    "titulo": "Cuidado y amor para tu mejor amigo",
+    "resumen": "Pet Paradise ofrece una extensa variedad de productos y servicios para mascotas, desde alimentos de alta calidad hasta accesorios, además de promover la adopción y el cuidado responsable.",
+    "textos": [
+      "Amplia gama de alimentos y accesorios para diferentes tipos de mascotas",
+      "Servicios de cuidado y estética para mascotas",
+      "Iniciativas de adopción y concienciación sobre el cuidado animal"
+    ],
+    "fotos": [
+      "mascotas1",
+      "mascotas2",
+      "mascotas3",
+      "mascotas4",
+      "mascotas5",
+      "mascotas6",
+      "mascotas7"
+    ],
+    "scoring": [
+      "5",
+      "4",
+      "4",
+      "5",
+      "5"
+    ],
+    "numeroDePuntuaciones": 5,
+    "reseñas": [
+      "En Pet Paradise siempre encuentro lo mejor para mi perro, y el personal es increíblemente amable y conocedor.",
+      "Me encanta su enfoque en la adopción y el cuidado responsable de las mascotas. Es una tienda con corazón.",
+      "Los servicios de cuidado para mascotas son de primera clase. Mi gato siempre sale luciendo y sintiéndose genial."
+    ]
+  },
+  {
+    "id": "c2d3e4f5-g6h7-i8j9-k0l1-m2n3o4p5q6r7",
+    "nombreComercio": "Tienda de Antigüedades El Tesoro del Tiempo",
+    "cif": "K23456789",
+    "direccion": "Calle Historia 12",
+    "email": "contacto@tesorodeltiempo.com",
+    "telefono": "1100000011",
+    "ciudad": "Toledo",
+    "actividad": "Venta de antigüedades, Arte y más..",
+    "titulo": "Un viaje a través de la historia en cada objeto",
+    "resumen": "El Tesoro del Tiempo ofrece una cuidada selección de antigüedades, proporcionando piezas únicas con historias fascinantes, además de servicios de valoración y restauración.",
+    "textos": [
+      "Colección exclusiva de muebles, arte y objetos decorativos de época",
+      "Servicios expertos de valoración y autenticación de antigüedades",
+      "Taller especializado en la restauración de muebles antiguos"
+    ],
+    "fotos": [
+      "antiguedades1"
+    ],
+    "scoring": [
+      "3",
+      "2",
+      "2",
+      "4",
+      "5"
+    ],
+    "numeroDePuntuaciones": 5,
+    "reseñas": [
+      "Cada visita a El Tesoro del Tiempo es descubrir un pedazo de historia. Su colección es impresionante.",
+      "El conocimiento y la pasión del personal por las antigüedades hacen que comprar aquí sea una experiencia educativa.",
+      "La restauración de mi cómoda antigua fue excepcional. ¡Quedó como nueva, respetando su esencia histórica!"
+    ]
+  }
+]

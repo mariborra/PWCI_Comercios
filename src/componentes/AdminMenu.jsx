@@ -1,0 +1,87 @@
+"use client";
+
+import { Dialog, Transition } from '@headlessui/react';
+import React, { Fragment, useState } from 'react';
+import Link from 'next/link';
+
+const AdminMenu = ({ isMenuOpen, setIsMenuOpen }) => {
+    return (
+        <Transition.Root show={isMenuOpen} as={Fragment}>
+            <Dialog as="div" className="relative z-10" onClose={() => setIsMenuOpen(false)}>
+
+                <Transition.Child
+                    as={Fragment}
+                    enter="ease-out duration-300"
+                    enterFrom="opacity-0"
+                    enterTo="opacity-100"
+                    leave="ease-in duration-200"
+                    leaveFrom="opacity-100"
+                    leaveTo="opacity-0"
+                >
+                    <div className="fixed inset-0 bg-gray-500 bg-opacity-75 transition-opacity" />
+                </Transition.Child>
+
+                <div className="fixed inset-0 z-10 overflow-y-auto">
+                    <div className="flex min-h-full items-center justify-center p-4 text-center">
+                        <Transition.Child>
+                            <Dialog.Panel className="relative transform overflow-hidden rounded-lg bg-black px-6 py-6 text-left shadow-xl transition-all sm:my-8 sm:w-96 sm:p-8">
+                                <ul className="space-y-4 p-4">
+
+                                    <li>
+                                        <Link
+                                            href="/typesUsers/admin/registerComercio"
+                                            className="Font_Garamond flex items-center gap-2 text-indigo-500 hover:text-indigo-300"
+                                            onClick={() => setIsMenuOpen(false)}
+                                        >
+                                            <svg
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                className="h-5 w-5 opacity-75"
+                                                fill="none"
+                                                viewBox="0 0 24 24"
+                                                stroke="currentColor"
+                                                strokeWidth="2"
+                                            >
+                                                <path
+                                                    strokeLinecap="round"
+                                                    strokeLinejoin="round"
+                                                    d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z"
+                                                />
+                                            </svg>
+                                            Nuevo Comercio
+                                        </Link>
+                                    </li>
+
+                                    <li>
+                                        <Link
+                                            href="/"
+                                            className="Font_Garamond flex items-center gap-2 text-red-500 hover:text-red-300"
+                                            onClick={() => setIsMenuOpen(false)}
+                                        >
+                                            <svg
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                className="h-5 w-5 opacity-75"
+                                                fill="none"
+                                                viewBox="0 0 24 24"
+                                                stroke="currentColor"
+                                                strokeWidth="2"
+                                            >
+                                                <path
+                                                    strokeLinecap="round"
+                                                    strokeLinejoin="round"
+                                                    d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1"
+                                                />
+                                            </svg>
+                                            Salir
+                                        </Link>
+                                    </li>
+                                </ul>
+                            </Dialog.Panel>
+                        </Transition.Child>
+                    </div>
+                </div>
+            </Dialog>
+        </Transition.Root>
+    );
+};
+
+export default AdminMenu;

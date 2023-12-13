@@ -1,0 +1,49 @@
+COMERCIO PRUEBA
+
+nombreComercio: Restaurante Elegancia Gourmet
+
+cif: L34567890
+
+direccion: Boulevard Gastronómico 19
+
+email: reservas@eleganciagourmet.com
+
+telefono: 1200000012
+
+titulo: Una sinfonía de sabores en un ambiente de lujo
+
+ciudad: Barcelona
+
+actividad: Gastronomía, Tecnología y más..
+
+resumen: Restaurante Elegancia Gourmet es sinónimo de alta cocina, ofreciendo una experiencia gastronómica inigualable en un entorno sofisticado y elegante.
+
+fotos:
+restauranteElegante1, restauranteElegante2, restauranteElegante3, restauranteElegante4, restauranteElegante5, restauranteElegante6, restauranteElegante7, restauranteElegante8, restauranteElegante9
+
+textos:
+Menú degustación de autor con los ingredientes más selectos, Maridajes exclusivos de vinos y platos gourmet, Ambiente lujoso y servicio impecable para una experiencia memorable
+
+scoring: [5, 5, 5, 4, 5]
+numeroDePuntuaciones: 5
+
+reseñas:
+Elegancia Gourmet no solo sirve comida, ofrece una experiencia culinaria que deleita todos los sentidos
+El menú degustación fue una aventura extraordinaria de sabores y texturas
+La atención al detalle y el servicio en Elegancia Gourmet son tan exquisitos como su comida
+
+
+USUARIO PRUEBA
+
+name: Jose
+email: jose@example.com
+password: 123
+age: 28
+city: Barcelona
+interests: gastronomía, viajes, lectura
+allowOffers: true
+
+
+
+
+
